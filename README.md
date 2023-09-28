@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @seangray-dev
-- 👀 I’m interested in building functional web applications, and obtaining a job as a front-end developer
-- 🌱 I’m currently learning: Tailwind, JavaScript & React 
-- 💞️ I’m looking to collaborate on projects that will challenge me as a new developer.
+- 🛠️ Currently building: https://www.filelaunch.io
 - 📫 How to reach me: email (seangray.dev@gmail.com)
 
 <!---
