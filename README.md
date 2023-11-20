@@ -1,14 +1,10 @@
-
-=================================================================================================================================
-
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Toronto
+* 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [seangray.tech](http://www.seangray.tech)
 * ✉️  You can contact me at [seangray.dev@gmail.com](mailto:seangray.dev@gmail.com)
-* 🚀  I'm currently working on [MoodWav](http://www.moodwav.app)
-* 🧠  I'm learning Rust, Python & TypeScript
+* 🚀  I'm currently working on [MoodWav](https://www.moodwav.app) & [FileLaunch](https://www.filelaunch.io)
 
 ### Socials
 
