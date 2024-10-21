@@ -4,7 +4,6 @@ Software Engineer
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [seangray.tech](http://www.seangray.tech)
 * ✉️  You can contact me at [seangray.dev@gmail.com](mailto:seangray.dev@gmail.com)
-* 🚀  I'm currently working on [Vault Dog](https://www.vaultdog.io) & [Formail](https://www.formail.dev)
 
 ### Socials
 
