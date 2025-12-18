@@ -2,7 +2,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [here](https://seangray-resume.graytechsolutions.com/)
+* 🖥️  See my portfolio [here](https://seangray-resume.graytechsolutions.com/)
 * ✉️  You can contact me at [seangray.dev@gmail.com](mailto:seangray.dev@gmail.com)
 
 ### Socials
